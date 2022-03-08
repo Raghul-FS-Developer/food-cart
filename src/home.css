@@ -1,0 +1,36 @@
+.header{
+color: wheat;
+    background-color:black;
+    margin-top: 0px;
+    padding: 20px;
+    font-family: 'Twinkle Star', cursive;
+    padding-left: 150px;
+}
+.pizza{
+    cursor:pointer;
+   background-color:wheat;
+    border:3px solid green;
+    border-radius: 20px;
+ width: 110px;
+    margin-left: 850px;
+    padding: 50px;
+    font-family: 'Bebas Neue', cursive; 
+    font-weight: bold;
+    font-size: 35px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    color: green;
+}
+.background{
+    background-image:url(https://b.zmtcdn.com/data/pictures/2/19831962/17e2a88fe844bf18d610ba64571cd50d.jpg);
+height: 580px;
+
+;
+    background-size: cover;
+}
+.pizza:hover{
+    color: wheat;
+    background-color: green;
+    border:2px solid cornsilk;
+}

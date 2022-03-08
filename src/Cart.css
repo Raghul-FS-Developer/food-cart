@@ -1,0 +1,71 @@
+.cart{
+    border:crimson 4px solid;
+margin : 50px;
+/* padding-left:; */
+background-color:crimson;
+color: white;
+display: flex;
+min-width: 100px;
+justify-content:center;
+align-items: flex-start
+
+}
+.buttons {
+      background-color: crimson;
+      color:white;
+   
+    padding-top: 10px;
+    /* padding-right: 425px; */
+    padding-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;  
+}
+
+.food-card_img_cart{
+    display: flex;
+    justify-content: space-evenly;
+    border: 4px solid white;
+    background-color: white;
+  
+height: 100px;
+}.image{
+    height: 100px;   
+    width: 100px;
+background-image: center;
+}.bottom{
+    display: flex;
+    justify-content: center;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.orders{
+    border:crimson 4px solid;
+    margin : 50px;
+    /* padding-left:; */
+    background-color:crimson;
+    color: white;
+    display: flex;
+    display:"flex";
+         justify-content: center;
+}
+.placed{
+    color: green;
+    display: flex;
+    justify-content: center;
+}
+.emptycart{
+    display: flex;
+    justify-content: center;
+    
+}.full{
+    min-width:100px;
+    max-width: 100px;
+}
