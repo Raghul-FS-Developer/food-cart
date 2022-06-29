@@ -8,8 +8,7 @@ function Order() {
 let context=useContext(foodcontext)  
 
 let orders=(()=>{
-    context.setCart([])
-    context.setCartvalue(0)
+
   navigate('/orders')
 })
 let navigate=useNavigate()
