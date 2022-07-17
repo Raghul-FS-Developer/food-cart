@@ -24,7 +24,7 @@ color: wheat;
 }
 .background{
     background-image:url(https://b.zmtcdn.com/data/pictures/2/19831962/17e2a88fe844bf18d610ba64571cd50d.jpg);
-height: 580px;
+height:100vh;
 
 ;
     background-size: cover;

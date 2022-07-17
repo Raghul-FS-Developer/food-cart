@@ -15,11 +15,10 @@ let placeorder=(()=>{
 })   
 let context=useContext(foodcontext)  
 let navigate=useNavigate()
-  console.log(context.cart);
-  // console.log(context.empty)
+
   let home=(()=>{
     navigate('/order')
-    // console.log("working")
+
   })
 let[cartprice]=useState(0)
      
